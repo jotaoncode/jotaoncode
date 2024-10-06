@@ -104,8 +104,7 @@ I am a humble Software Engineer that loves to learn every day new technologies, 
  <summary style="text-align:center;"><h3>💻 Jotaoncode </h3></summary>
    Started working professionaly in 2011 as a Software developer, but started writing code since I was about 13 years old inspired by my brother who was already learning electronics.
    I had the chance to learn from different industries, their needs and how they work in regards to solve their problems from a technical point of view.
-   Mentor of some students in a bootcamp at Thinkful was one of the most enriching experiencies, but the project I always remember with a lot of love is
-   Trivia crack a video game we worked for a tv show called Susana Gimenez in Argentina, this is a game of learning and education in it's heart and the people that worked with this project is people I appreciate a lot.
+   Working as a mentor of some students in a bootcamp at Thinkful was one of the most enriching experiencies.
    Father of 2 children, Argentinian living in Hamburg that every day tries to be a better professional and person, learning and listening.
 </details>
 
