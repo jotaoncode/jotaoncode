@@ -1,4 +1,4 @@
-## :construction_worker: Jotaoncode
+## :man: Jotaoncode
 
 I am a humble Software Engineer that loves to learn every day new technologies, always learning from the community and trying to imrpove my self as a professional.
 
