@@ -54,7 +54,7 @@ I am a humble Software Engineer that loves to learn every day new technologies, 
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/juangar68043827)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3w8F2SQIkBg2UrwUkhx7pw)]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3w8F2SQIkBg2UrwUkhx7pw)
 
 ---
 
