@@ -52,7 +52,7 @@ I am a humble Software Engineer that loves to learn every day new technologies, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20Connect-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/garciajuanjose/)
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/juangar68043827)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Juancho_1985_)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3w8F2SQIkBg2UrwUkhx7pw)
 
